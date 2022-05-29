@@ -2,3 +2,5 @@ je modifie ce fichier
 j'ajoute des lignes
 je rajoute cette ligne là.
 nouvel ajout
+on ajoute encore du texte
+et encore
